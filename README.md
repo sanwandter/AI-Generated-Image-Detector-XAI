@@ -2,7 +2,7 @@
 
 Este proyecto ha sido desarrollado para el ramo **INF473 INTRODUCCIÓN A LA INTELIGENCIA ARTIFICIAL EXPLICABLE**.
 
-## Descripción## Descripción del Proyecto
+## Descripción del Proyecto
 
 Este proyecto se enfoca en la clasificación de imágenes reales versus aquellas generadas por IA, utilizando el dataset "CIFAKE" de Kaggle. Se implementa una Red Neuronal Convolucional en TensorFlow para distinguir entre imágenes La clasificabión de las imágenes.
 
