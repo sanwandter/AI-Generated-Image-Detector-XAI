@@ -4,7 +4,7 @@ Este proyecto ha sido desarrollado para el ramo **INF473 INTRODUCCIÓN A LA INTE
 
 ## Descripción del Proyecto
 
-Este proyecto se enfoca en la clasificación de imágenes reales versus aquellas generadas por IA, utilizando el dataset "CIFAKE" de Kaggle. Se implementa una Red Neuronal Convolucional en TensorFlow para distinguir entre imágenes La clasificabión de las imágenes.
+Este proyecto se enfoca en la clasificación de imágenes reales versus aquellas generadas por IA, utilizando el dataset [CIFAKE](https://www.kaggle.com/datasets/birdy654/cifake-real-and-ai-generated-synthetic-images) de Kaggle. Se implementa una Red Neuronal Convolucional en TensorFlow para distinguir entre imágenes La clasificabión de las imágenes.
 
 El flujo de trabajo principal incluye:
 1.  **Preparación de Datos:** Carga, preprocesamiento (normalización, redimensión a 224x224) y división de datos en conjuntos de train, validación y test. Se utilizan `tf.data.Dataset` para la ingesta eficiente de datos.
