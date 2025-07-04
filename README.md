@@ -1,5 +1,4 @@
-# Proyecto XAI - INF473
-## Clasificación de Imágenes Reales vs Generadas por IA con Técnicas de Explicabilidad
+# Clasificación de Imágenes Reales vs Generadas por IA con Técnicas de Explicabilidad
 
 Este proyecto ha sido desarrollado para el ramo **INF473 INTRODUCCIÓN A LA INTELIGENCIA ARTIFICIAL EXPLICABLE**.
 
