@@ -56,13 +56,6 @@ El proyecto no solo busca lograr una clasificación precisa de imágenes reales 
 - Implementado con tf-keras-vis y saliency.core
 - Reduce el ruido en las visualizaciones de gradientes
 
-## Resultados y Visualizaciones
-
-El proyecto genera múltiples visualizaciones comparativas:
-- **Grids de Predicciones**: 21 imágenes por clase (3x7) con predicciones y confianza
-- **Mapas XAI**: Visualizaciones lado a lado de todas las técnicas
-- **Análisis de Superpixeles**: Pesos detallados de regiones importantes
-
 ## Notebook del Proyecto
 
 Puedes abrir y ejecutar el notebook directamente en Google Colab usando el siguiente botón:
