@@ -12,7 +12,7 @@ Este proyecto implementa un sistema completo de clasificación binaria para dist
 
 - **Dataset**: CIFAKE con imágenes reescaladas a 224x224 pixels clasificadas como REAL o FAKE
 - **Múltiples Arquitecturas**: Modelo CNN personalizado, VGG16 y InceptionV3 con Transfer Learning
-- **Técnicas XAI Avanzadas**: Implementación de 6 técnicas diferentes de explicabilidad
+- **Técnicas XAI**: Implementación de 2 técnicas diferentes de explicabilidad
 - **Evaluación Completa**: Métricas de rendimiento con visualizaciones detalladas
 
 ### Flujo de Trabajo
