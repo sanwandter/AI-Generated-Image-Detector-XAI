@@ -2,7 +2,7 @@
 
 Este repositorio contiene el código y los resultados del proyecto de investigación sobre la detección de imágenes sintéticas desarrollado para el ramo **INF473 INTRODUCCIÓN A LA INTELIGENCIA ARTIFICIAL EXPLICABLE**.
 
-**➡️ [Leer el Informe Completo del Proyecto (PDF)](https://usmcl-my.sharepoint.com/:b:/g/personal/santiago_anwandter_usm_cl/EfBlXOpQMe9KuUcKAlu6gmsB9gBThs9-kFH_p3zzKDrgKQ?e=mw4IIL](https://usmcl-my.sharepoint.com/:b:/g/personal/santiago_anwandter_usm_cl/EXSZqCsIJs9Ek3K1bVh1sWgBOADSp2FBsbEToLdoQUlN_w?e=fqf2Eu)**
+**➡️ [Leer el Informe Completo del Proyecto (PDF)](https://usmcl-my.sharepoint.com/:b:/g/personal/santiago_anwandter_usm_cl/EXSZqCsIJs9Ek3K1bVh1sWgBOADSp2FBsbEToLdoQUlN_w?e=hDTYry)**
 
 ## Descripción del Proyecto
 
