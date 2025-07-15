@@ -52,8 +52,8 @@ El proyecto no solo busca lograr una clasificación precisa de imágenes reales 
 - Genera mapas de calor superpuestos sobre la imagen original
 
 ### 2. SmoothGrad
-- Mejora la calidad de los gradientes mediante promediado de múltiples muestras con ruido
-- Implementado con tf-keras-vis y saliency.core
+- Mejora la calidad de los Saliency Maps mediante promediado de múltiples muestras con ruido
+- Implementado con tf-keras-vis
 - Reduce el ruido en las visualizaciones de gradientes
 
 ## Notebook del Proyecto
